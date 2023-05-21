@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jintae-choi/jintae-choi.github.io.git/static/css/main.1bb494ec.css",
-    "main.js": "/jintae-choi/jintae-choi.github.io.git/static/js/main.2a7e8370.js",
-    "static/js/787.f587e8d5.chunk.js": "/jintae-choi/jintae-choi.github.io.git/static/js/787.f587e8d5.chunk.js",
-    "static/media/logo.svg": "/jintae-choi/jintae-choi.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/jintae-choi/jintae-choi.github.io.git/index.html",
-    "main.1bb494ec.css.map": "/jintae-choi/jintae-choi.github.io.git/static/css/main.1bb494ec.css.map",
-    "main.2a7e8370.js.map": "/jintae-choi/jintae-choi.github.io.git/static/js/main.2a7e8370.js.map",
-    "787.f587e8d5.chunk.js.map": "/jintae-choi/jintae-choi.github.io.git/static/js/787.f587e8d5.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.638959c7.js",
+    "static/js/787.f587e8d5.chunk.js": "/static/js/787.f587e8d5.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.638959c7.js.map": "/static/js/main.638959c7.js.map",
+    "787.f587e8d5.chunk.js.map": "/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bb494ec.css",
-    "static/js/main.2a7e8370.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.638959c7.js"
   ]
 }
